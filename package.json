@@ -47,24 +47,24 @@
     "lint:fix": "eslint lib/ --fix"
   },
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.1-alpha.1",
-    "expo-asset": "1.1.1",
+    "@expo/browser-polyfill": "^0.0.1-alpha.3",
+    "expo-asset": "^2.0.0",
     "expo-asset-utils": "^0.0.5",
-    "expo-file-system": "^1.0.0",
-    "expo-gl": "^1.0.0",
+    "expo-file-system": "^2.0.0",
+    "expo-gl": "^2.0.0",
     "fbemitter": "2.1.1",
     "gl-matrix": "2.6.1",
     "path": "^0.12.7",
     "pixi-filters": "*",
     "pixi-spine": "^1.5.11",
-    "pixi.js": "^4.7.0",
+    "pixi.js": "^4.8.5",
     "url": "^0.11.0"
   },
   "peerDependencies": {
-    "react": "^16.2.0"
+    "react": "16.5.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^4.0.0",
+    "babel-preset-expo": "^5.0.0",
     "eslint": "^5.1.0",
     "eslint-config-universe": "^1.0.6",
     "eslint-plugin-jest": "^21.2.0",
