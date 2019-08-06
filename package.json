@@ -47,7 +47,7 @@
     "lint:fix": "eslint lib/ --fix"
   },
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.1-alpha.3",
+    "@expo/browser-polyfill": "0.1.0",
     "expo-asset": "^2.0.0",
     "expo-asset-utils": "^0.0.5",
     "expo-file-system": "^2.0.0",
